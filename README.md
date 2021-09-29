@@ -17,7 +17,7 @@ HTML and CCS, which include:
 
 ## How to run:
 
-1. First of all, you need to go to the repository at the following direction: .
+1. First of all, you need to go to the repository at the following direction: https://github.com/tfmeyermunoz/Eye-Exercise.
 2. Download all the files included in the repository.
 4. Open the eyes.html file in your favourite browser and move the mouse to see the eyes movement animation.
 5. In case you want to change the styling of the animation, modify the eyes.css file.
